@@ -44,12 +44,3 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juceluq)](https://github.com/juceluq/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Juan's github activity graph](https://activity-graph.herokuapp.com/graph?username=juceluq&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/juceluq/github-readme-activity-graph)
-
