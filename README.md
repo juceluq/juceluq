@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 I studied **Cross-Platform Application Development** at [IES Trassierra](https://www.iestrassierra.com)
-- 🌍 Living in **Córdoba, Spain**
+- 🌍 Living in **Madrid, Spain**
 - 💼 Fullstack Developer passionate about **frontend** and **backend** technologies
 - 🚀 Focused on learning and applying good programming practices to create quality digital products
 - 💬 Experienced in working in multidisciplinary teams to develop, maintain, and improve applications
